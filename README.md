@@ -8,10 +8,10 @@ Visual Feedback: Provides quick access to parking availability by displaying col
 Data Persistence: Uses the pickle library to store user-selected parking configurations, making retrieval simple in subsequent sessions.
 Performance Monitoring: Minimizes latency while tracking available parking spaces in real time.
 # Technologies/Tools Used
-Programming Language: Python
-Libraries: OpenCV, NumPy, Pickle
-Development Environment:PyCharm, Visual Studio Code
-Operating System: Windows
+-Programming Language: Python
+-Libraries: OpenCV, NumPy, Pickle
+-Development Environment:PyCharm, Visual Studio Code
+-Operating System: Windows
 # Steps to Install & Run the Project
 1) Clone the Repository: Download the project files from the GitHub repository.
 2) Install Required Packages: Use pip to install the necessary libraries.
