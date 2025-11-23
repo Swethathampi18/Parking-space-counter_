@@ -1,0 +1,2 @@
+# PROBLEM STATEMENT
+Finding and keeping track of parking spots in busy cities is a tough problem that causes trouble for both people driving and those in charge of the parking areas. Old ways of checking parking spaces are not very effective and usually depend on people checking manually or using old technology. The Parking Space Counter project aims to fix this by offering a real-time solution that makes it easier to see and manage parking spots using automatic image processing.
