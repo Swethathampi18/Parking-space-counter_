@@ -24,6 +24,10 @@ The Parking Space Counter project aims to implement a real-time system that dete
 4) Review Data Persistence: Restart the application to ensure that the selected configurations are retained.
 # Screenshot
 <img width="1374" height="935" alt="image" src="https://github.com/user-attachments/assets/c0e6edea-f902-426d-9297-186f6f185a51" />
+<img width="1369" height="943" alt="image" src="https://github.com/user-attachments/assets/cdc5643f-c9e1-4db2-be91-673daeae85ae" />
+
+
+
 
 
 
